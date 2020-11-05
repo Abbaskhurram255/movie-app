@@ -1,0 +1,28 @@
+@import './components/Header/Header.css';
+@import './components/FourColGrid/FourColGrid.css';
+@import './components/HeroImage/HeroImage.css';
+@import './components/Home/Home.css';
+@import './components/LoadMoreBtn/LoadMoreBtn.css';
+@import './components/MovieThumb/MovieThumb.css';
+@import './components/SearchBar/SearchBar.css';
+@import './components/Movie/Movie.css';
+@import './components/Actor/Actor.css';
+@import './components/MovieInfo/Movieinfo.css';
+@import './components/MovieInfoBar/MovieInfoBar.css';
+@import './components/MovieThumb/MovieThumb.css';
+@import './components/Navigation/Navigation.css';
+@import './components/UpcomingBtn/UpcomingBtn.css';
+
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+body {
+  margin: 0;
+  font-family: "Abel", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #1C1C1C;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

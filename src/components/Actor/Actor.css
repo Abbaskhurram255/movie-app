@@ -1,0 +1,56 @@
+.rmdb-actor {
+  box-sizing: border-box;
+}
+
+.rmdb-actor img {
+  width: 40%;
+  height: auto;
+  float: left;
+  box-sizing: border-box;
+}
+
+.rmdb-actor-name {
+  font-family: "Abel", sans-serif;
+  font-size: 22px;
+  color: skyblue;
+  float: left;
+  margin: 10px 10px;
+  width: 50%;
+  box-sizing: border-box;
+}
+
+.rmdb-actor-character {
+  font-family: "Abel", sans-serif;
+  font-size: 18px;
+  color: #fff;
+  float: left;
+  margin: 0px 10px;
+  width: 50%;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 768px) {
+  #actor {
+    background: #353535 !important;
+    border-radius: 10px;
+    margin: 10px;
+  }
+  .rmdb-actor-name {
+    font-size: 20px;
+    margin: 4px 10px;
+  }
+  .rmdb-actor-character {
+    font-size: 15px;
+    margin: 0px 0px 0px 10px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .rmdb-actor-character,
+  .rmdb-actor-name {
+    margin: 4px 6px;
+  }
+  .rmdb-actor-name {
+    font-size: 13px;
+  }
+}
