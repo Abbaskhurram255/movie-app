@@ -40,11 +40,11 @@ View detailed movie information like runtimes, ratings, images, cast/crew data, 
 
 > Reach out to me at:
 
-- m27sylla@gmail.com
+- abbaskhurram255@gmail.com
 
 > My portfolio:
 
-- <a href="https://oxydev.fr/portfolio/" target="_blank">https://oxydev.fr/portfolio/</a>
+- <a href="https://abbaskhurram255.github.io/" target="_blank">https://abbaskhurram255.github.io/</a>
 
 ---
 
