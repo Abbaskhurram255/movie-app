@@ -8,12 +8,12 @@ import Movie from './components/Movie/Movie';
 function App()
 {
   return (
-    <BrowserRouter basename='/movie-app/'>
+    <BrowserRouter basename='/yoMovies/'>
       <React.Fragment>
         <Header />
         <Switch>
           <Route path="/" component={Home} exact />
-          <Route path="/yoMovies/:movieId" component={Movie} exact />
+          <Route path="/:movieId" component={Movie} exact />
           <Route component={NotFound} />
         </Switch>
       </React.Fragment>
