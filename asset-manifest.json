@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/yoMovies/static/css/main.ab87dd4d.chunk.css",
-    "main.js": "/yoMovies/static/js/main.8d79638c.chunk.js",
-    "main.js.map": "/yoMovies/static/js/main.8d79638c.chunk.js.map",
+    "main.js": "/yoMovies/static/js/main.b70c9d83.chunk.js",
+    "main.js.map": "/yoMovies/static/js/main.b70c9d83.chunk.js.map",
     "runtime-main.js": "/yoMovies/static/js/runtime-main.4ebc7f5c.js",
     "runtime-main.js.map": "/yoMovies/static/js/runtime-main.4ebc7f5c.js.map",
     "static/js/2.cf4e8f6d.chunk.js": "/yoMovies/static/js/2.cf4e8f6d.chunk.js",
     "static/js/2.cf4e8f6d.chunk.js.map": "/yoMovies/static/js/2.cf4e8f6d.chunk.js.map",
     "index.html": "/yoMovies/index.html",
-    "precache-manifest.8419027f7fedab4dfe628cf89bfbfa6b.js": "/yoMovies/precache-manifest.8419027f7fedab4dfe628cf89bfbfa6b.js",
+    "precache-manifest.5cb8133413611f38dcecad41b3e982de.js": "/yoMovies/precache-manifest.5cb8133413611f38dcecad41b3e982de.js",
     "service-worker.js": "/yoMovies/service-worker.js",
     "static/css/main.ab87dd4d.chunk.css.map": "/yoMovies/static/css/main.ab87dd4d.chunk.css.map",
     "static/js/2.cf4e8f6d.chunk.js.LICENSE.txt": "/yoMovies/static/js/2.cf4e8f6d.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.4ebc7f5c.js",
     "static/js/2.cf4e8f6d.chunk.js",
     "static/css/main.ab87dd4d.chunk.css",
-    "static/js/main.8d79638c.chunk.js"
+    "static/js/main.b70c9d83.chunk.js"
   ]
 }
