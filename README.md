@@ -25,7 +25,7 @@ View detailed movie information like runtimes, ratings, images, cast/crew data, 
 
 ## Libraries and Technologies
 
-- Accesses The Movie Database (TMDb) API for movie related data
+- Accesses The Movie Database (TMDb) API for movie-related data
 - Uses React, React Hooks
 - Components, props and state
 - Uses Axios for data fetching, included in a custom React Hook
