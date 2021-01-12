@@ -1,4 +1,4 @@
-# Movie-App
+# Movies
 
 ## **<a href="https://abbaskhurram255.github.io/movie-app/" target="_blank">Click here to see demo</a>**
 
