@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "022c3d0a81ef2af994af0d0e7b72f2c9",
+    "revision": "4f15343a29b255af1181d28e297a5b3c",
     "url": "/yoMovies/index.html"
   },
   {
-    "revision": "01551ede5673286cffdb",
-    "url": "/yoMovies/static/css/main.ab87dd4d.chunk.css"
+    "revision": "da69fd0704de21233713",
+    "url": "/yoMovies/static/css/main.33311388.chunk.css"
   },
   {
     "revision": "0596feb2f7e9ef7dbdd5",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yoMovies/static/js/2.cf4e8f6d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "01551ede5673286cffdb",
-    "url": "/yoMovies/static/js/main.b70c9d83.chunk.js"
+    "revision": "da69fd0704de21233713",
+    "url": "/yoMovies/static/js/main.3c0a60aa.chunk.js"
   },
   {
     "revision": "0149aa649b9c75007f2a",

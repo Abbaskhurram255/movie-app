@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/yoMovies/static/css/main.ab87dd4d.chunk.css",
-    "main.js": "/yoMovies/static/js/main.b70c9d83.chunk.js",
-    "main.js.map": "/yoMovies/static/js/main.b70c9d83.chunk.js.map",
+    "main.css": "/yoMovies/static/css/main.33311388.chunk.css",
+    "main.js": "/yoMovies/static/js/main.3c0a60aa.chunk.js",
+    "main.js.map": "/yoMovies/static/js/main.3c0a60aa.chunk.js.map",
     "runtime-main.js": "/yoMovies/static/js/runtime-main.4ebc7f5c.js",
     "runtime-main.js.map": "/yoMovies/static/js/runtime-main.4ebc7f5c.js.map",
     "static/js/2.cf4e8f6d.chunk.js": "/yoMovies/static/js/2.cf4e8f6d.chunk.js",
     "static/js/2.cf4e8f6d.chunk.js.map": "/yoMovies/static/js/2.cf4e8f6d.chunk.js.map",
     "index.html": "/yoMovies/index.html",
-    "precache-manifest.5cb8133413611f38dcecad41b3e982de.js": "/yoMovies/precache-manifest.5cb8133413611f38dcecad41b3e982de.js",
+    "precache-manifest.79534c18a61e5594f0bc50c4bfc87179.js": "/yoMovies/precache-manifest.79534c18a61e5594f0bc50c4bfc87179.js",
     "service-worker.js": "/yoMovies/service-worker.js",
-    "static/css/main.ab87dd4d.chunk.css.map": "/yoMovies/static/css/main.ab87dd4d.chunk.css.map",
+    "static/css/main.33311388.chunk.css.map": "/yoMovies/static/css/main.33311388.chunk.css.map",
     "static/js/2.cf4e8f6d.chunk.js.LICENSE.txt": "/yoMovies/static/js/2.cf4e8f6d.chunk.js.LICENSE.txt",
     "static/media/no-image.jpg": "/yoMovies/static/media/no-image.5eb0b883.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4ebc7f5c.js",
     "static/js/2.cf4e8f6d.chunk.js",
-    "static/css/main.ab87dd4d.chunk.css",
-    "static/js/main.b70c9d83.chunk.js"
+    "static/css/main.33311388.chunk.css",
+    "static/js/main.3c0a60aa.chunk.js"
   ]
 }
