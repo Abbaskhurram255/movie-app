@@ -7,6 +7,7 @@
     "type": "git",
     "url": "https://github.com/abbaskhurram255/yoMovies.git"
   },
+  "homepage": "https://abbaskhurram255.github.io/yoMovies/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
@@ -47,6 +48,5 @@
   },
   "devDependencies": {
     "eslint": "^7.8.1"
-  },
-  "homepage": "https://abbaskhurram255.github.io/movie-app/"
+  }
 }

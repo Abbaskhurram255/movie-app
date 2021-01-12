@@ -1,4 +1,4 @@
-# Movies
+# yoMovies
 
 ## **<a href="https://abbaskhurram255.github.io/yoMovies/" target="_blank">Click here to see demo</a>**
 
@@ -46,7 +46,7 @@ View detailed movie information like runtimes, ratings, images, cast/crew data, 
 
 > My portfolio:
 
-- <a href="https://abbaskhurram255.github.io/" target="_blank">https://abbaskhurram255.github.io/</a>
+- <a href="https://abbaskhurram255.github.io/" target="_blank">https://abbaskhurram255.github.io</a>
 
 ---
 
