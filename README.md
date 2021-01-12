@@ -1,4 +1,4 @@
-# Movies
+# yoMovies
 
 ## **<a href="https://abbaskhurram255.github.io/yoMovies/" target="_blank">Click here to see demo</a>**
 
