@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "license": "MIT",
   "author": "Alex Puth aka Khurram <abbaskhurram255@gmail.com> (https://abbaskhurram255.github.io)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abbaskhurram255/yoMovies.git"
+  },
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
